@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Les3Kataev
+namespace Les3Kataev  //Задача сумма положительных четных числе введенных с клавиатуры
 {
     class Program
     {
