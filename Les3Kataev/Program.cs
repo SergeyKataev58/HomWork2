@@ -8,7 +8,7 @@ namespace Les3Kataev
         {
             int sum = 0;
             int num = 0;
-
+            Console.WriteLine("Введите числа");
             do
             {
                 num = int.Parse(Console.ReadLine());
@@ -17,7 +17,7 @@ namespace Les3Kataev
 
             } while (num != 0);
 
-            Console.WriteLine("Sum: " + sum);
+            Console.WriteLine("Сумма положительных четных чисел= " + sum);
         }
     }
 }
