@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Les2Kataev
+namespace Les2Kataev // Задача нахождения количества цифр числа
 {
     class Program
     {
